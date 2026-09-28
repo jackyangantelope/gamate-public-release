@@ -1,0 +1,9 @@
+/build/
+/deps/pico_hdmi/
+/tools/release/
+/.claude/
+/.codex/
+*.uf2
+*.elf
+*.bin
+*.map
